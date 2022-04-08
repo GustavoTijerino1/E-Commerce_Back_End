@@ -24,7 +24,7 @@ Product.init(
       type: DataTypes.DECIMAL,
       allowNull: false,
       validate:{
-        is: /^[0-9a-f]{64}$/i
+        isDecimal:true
       }
       
     },
