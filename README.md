@@ -26,12 +26,15 @@ Vidal Tan
 
 ## Usage
 
-![How it works.]()
+![How it works.](./Develop/asstes/img/runSeed.png)
 
-![View All.]()
+![View All.](./Develop/asstes/img/runStart.png)
 
 ## Walk Through
 
+https://drive.google.com/file/d/1jm01NT-GOyliNwp46ukwFqak0j3vUen_/view
+
+https://drive.google.com/file/d/1iDoi-kpe_YgDze5FqBCMqMyH4t0F2JrK/view
 
 ## Deployment
 
